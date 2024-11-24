@@ -1,0 +1,12 @@
+---
+title: Sabrina Lima
+weight: 15
+email: "sabrina.lima@email.com"
+image: "/images/sabrina.jpg"
+description: Estudante de Ciências Sociais na UFRJ, pesquisadora voluntária no Laboratório de Humanidades Digitais. Interessada na reinvenção das áreas de ciências humanas com a evolução tecnológica.
+social:
+  - name: lattes
+    icon: fa-solid fa-graduation-cap
+    link: http://lattes.cnpq.br/1628822714405899
+
+---
