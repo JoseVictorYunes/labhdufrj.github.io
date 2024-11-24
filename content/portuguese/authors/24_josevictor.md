@@ -2,7 +2,7 @@
 title: José Victor Yunes da Cunha
 weight: 24
 email: "josevictoryunes@email.com"
-image: 
+image: "/images/jose_victor.jpg"
 description: Estudante de Ciências Sociais Bacharelado - UFRJ, conhecimento aplicado de programação em python, análise exploratória de dados em R e estatística. Focado em pesquisas sobre Desigualdade e Big Data, com interesse em unir o qualitativo e quantitativo.
 social:
   - name: lattes
